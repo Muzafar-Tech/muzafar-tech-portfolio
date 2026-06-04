@@ -25,13 +25,11 @@ export const whyWorkData = [
 
     icon: LayoutDashboard,
   },
-
   {
     id: "03",
-    title: "Performance Focused",
+    title: "Performance & SEO Excellence",
     description:
-      "Optimized interfaces and smooth experiences with attention to speed and usability.",
-
+      "Delivering blazing-fast, SEO-friendly web experiences that boost rankings, engagement, and online success.",
     icon: Zap,
   },
 

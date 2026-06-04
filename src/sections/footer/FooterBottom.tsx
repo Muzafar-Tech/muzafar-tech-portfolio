@@ -29,7 +29,7 @@ export default function FooterBottom() {
           light:text-black/50
         "
       >
-        © 2026 Muzafar Ameen. All rights reserved.
+        © 2026 Muzafar Tech. All rights reserved.
       </p>
 
       <p

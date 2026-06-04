@@ -32,7 +32,7 @@ export const projects = [
     description:
       "Secure digital vault platform for passwords, files, reminders and private information with OTP authentication.",
     live: "https://vaultmindx.netlify.app/",
-    github: "#",
+    github: "https://github.com/Muzafar-Tech/VaultMind",
     technologies: [
       reactLogo,
       nextLogo,
@@ -53,7 +53,7 @@ export const projects = [
     description:
       "Production-ready retail POS system with inventory management, sales processing and reporting dashboards.",
     live: "http://sufyanalii.somee.com/POSONLINE/frmLogin",
-    github: "#",
+    github: "https://github.com/sufyanalay/NSPOSONLINE.git",
     technologies: [jsLogo, cssLogo, githubLogo],
   },
   {
@@ -64,7 +64,7 @@ export const projects = [
     description:
       "Smart group expense tracking application with balance management, settlements, authentication and admin controls.",
     live: "https://expense-tracker-mernx.netlify.app",
-    github: "#",
+    github: "https://github.com/Muzafar-Tech/expense-tracker",
     technologies: [
       reactLogo,
       nextLogo,
@@ -86,7 +86,7 @@ export const projects = [
     description:
       "Premium business solution website focused on branding, development, SEO and high-converting UI/UX.",
     live: "https://thrivegrit.netlify.app/",
-    github: "#",
+    github: "https://github.com/Muzafar-Tech/thrive-grit",
     technologies: [
       reactLogo,
       nextLogo,
@@ -107,7 +107,7 @@ export const projects = [
     description:
       "AI-based career guidance platform with assessments, dashboards, mentorship and personalized recommendations.",
     live: "https://careerquestx.vercel.app/",
-    github: "#",
+    github: "https://github.com/Muzafar-Tech/careerquest",
     technologies: [
       reactLogo,
       nextLogo,
@@ -128,7 +128,7 @@ export const projects = [
     description:
       "AI-powered freelancer communication tool for generating professional client replies instantly.",
     live: "https://freelanceraireply.netlify.app/",
-    github: "#",
+    github: "https://github.com/Muzafar-Tech/freelancerreply-ai",
     technologies: [reactLogo, jsLogo, tailwindLogo, githubLogo],
   },
 ];
